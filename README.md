@@ -86,6 +86,6 @@ kill -9 <process-id>
 
 The files have been configured in `/opt/wireguard/config/peer*` folder. Navigate to any of those folders and you'll get the peer*.png and peer*.conf files.
 
-You can either use `scp` or just run `python3 -m http.server 80` to get the files out of server.
+You can either use `scp` or just run `python3 -m http.server 9999` to get the files out of server.
 
 That's it. Scan or use conf file to connect to VPN.
