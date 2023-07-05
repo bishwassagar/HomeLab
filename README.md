@@ -23,7 +23,7 @@ Image: [linuxserver/wireguard](https://github.com/linuxserver/docker-wireguard)
 ### docker-compose (recommended)
 
 This is my configured yaml which worked for me and my location. You can just download this config file: \
-`wget github.com/bishwassagar/HomeLab/wireguard/docker-compose.yml` \
+`wget https://raw.githubusercontent.com/bishwassagar/HomeLab/main/wireguard/docker-compose.yml` \
 `docker-compose up -d` \
 and you're good to go.
 
